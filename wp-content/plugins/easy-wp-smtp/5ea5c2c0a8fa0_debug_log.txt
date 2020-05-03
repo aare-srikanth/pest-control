@@ -1,0 +1,30 @@
+Easy WP SMTP debug log file
+
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: YWFyZXNyaWthbnRoQGdtYWlsLmNvbQ==
+CLIENT -> SERVER: YWFyZUAxMjN0YW5ndQ==
+CLIENT -> SERVER: MAIL FROM:<aaresrikanth@gmail.com>
+CLIENT -> SERVER: RCPT TO:<aaesrikanth@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sun, 26 Apr 2020 17:20:00 +0000
+CLIENT -> SERVER: To: aaesrikanth@gmail.com
+CLIENT -> SERVER: From: Pest Control - Telangana <aaresrikanth@gmail.com>
+CLIENT -> SERVER: Reply-To: test@gmail.com, Pest Control - Telangana <aaresrikanth@gmail.com>
+CLIENT -> SERVER: Subject: Pest Control - Telangana "test"
+CLIENT -> SERVER: Message-ID: <e8d690bf85dddf435c283f28f019af75@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: test <test@gmail.com>
+CLIENT -> SERVER: Subject: test
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: test
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Pest Control - Telangana (http://localhost/pets-control)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
